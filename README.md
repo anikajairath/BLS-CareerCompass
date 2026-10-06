@@ -75,6 +75,7 @@ The occupation/SOC code is used to connect current labor-market information with
 
 The project workflow includes:
 
+```text
 Raw BLS Data
      ↓
 Data Inventory
@@ -91,7 +92,8 @@ CareerCompass Engine
      ↓
 RAG + Gemini
      ↓
-Streamlit Application
+Streamlit Application 
+```
 
 Analysis includes employment, wages, occupational distributions, state/MSA comparisons, location quotients, projected growth, annual openings, education requirements, experience, and training.
 
