@@ -20,15 +20,15 @@ The project combines data cleaning, exploratory analysis, SQL, feature engineeri
 
 ### Detailed records analyzed
 
-| Dataset                                | Records |
-
-| National OEWS                           | 830 |
-| State OEWS                             | 36,168 |
-| MSA OEWS                               | 141,015 |
-| BOS / Nonmetropolitan OEWS             | 45,542 |
-| Employment Projections                 | 831 |
-| Occupational Openings                  | 831 |
-| **Total**                              | **225,217** |
+| Dataset | Records |
+|---|---:|
+| National OEWS | 830 |
+| State OEWS | 36,168 |
+| MSA OEWS | 141,015 |
+| BOS / Nonmetropolitan OEWS | 45,542 |
+| Employment Projections | 831 |
+| Occupational Openings | 831 |
+| **Total** | **225,217** |
 
 These figures represent the **detailed analytical records** used in the project rather than aggregate occupational-group rows.
 
